@@ -82,3 +82,18 @@ Unity와 C#을 활용한 게임 개발 경험을 바탕으로, <br> 앞으로도
 
 |[링크](https://github.com/haerimi/React-Task-App.git)
 
+<hr>
+
+### 📖 5. Book Store (프로그래머스 과정)
+**개발 기간**
+- 2024.08.26-2024.11.22
+
+**기능 요약**
+- 도서 목록 및 상세 정보 확인 기능 구현
+- 도서 검색 기능 구현
+- 좋아요 기능 구현
+- 장바구니 기능 및 주문 기능 구현
+
+|저장소|
+|---|
+|[링크](https://github.com/haerimi/Book-store.git)|
